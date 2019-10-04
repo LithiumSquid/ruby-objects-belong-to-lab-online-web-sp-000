@@ -6,5 +6,4 @@ class Artist
     @name = name
   end
   
-  
-class Artist
+end
